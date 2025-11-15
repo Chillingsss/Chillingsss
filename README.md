@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am an Information Technology professional blending robust **Full-Stack Development** skills with practical experience in operational efficiency and logistics management.
+I am an Information Technology professional blending **strong Full-Stack Development** skills with practical experience in operational efficiency and logistics management.
 
 * **The Technical Side:** My core expertise lies in designing, developing, and deploying modern web applications. I am passionate about clean code, system architecture, and leveraging technology to solve complex problems.
 * **The Operational Side:** I bring over 3 years of hands-on experience in high-pressure event logistics, coordination, and vendor management, where I honed skills in planning, attention to detail, and problem-solving.
@@ -18,9 +18,9 @@ I am an Information Technology professional blending robust **Full-Stack Develop
 | :--- | :--- |
 | **Languages** | Python, JavaScript (Vanilla), PHP |
 | **Frontend** | React JS, Next.js, Flutter, HTML/CSS, Tailwind CSS |
-| **Backend/Runtime** | Node.js, PHP, Python |
+| **Backend/Runtime** | Node.js |
 | **Database/Data** | SQL / NoSQL, Data Analysis |
-| **Tools & Version Control** | Git, GitHub |
+| **Tools & Version Control** | Git, GitHub, ERP/WMS Software |
 
 ## 💼 Professional Experience Highlights
 
@@ -46,4 +46,4 @@ Check out my personal portfolio and repositories to see my skills in action!
 
 I am open to discussing new opportunities, collaborations, or technical challenges.
 
-* **Email:** ralphjangallegos@gmail.com
+* **Email:** ralp.pelino11@gmail.com
