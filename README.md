@@ -38,4 +38,4 @@ Check out my personal portfolio and repositories to see my skills in action!
 
 ## 📧 Get in Touch
 I am open to discussing new opportunities, collaborations, or technical challenges.
-* **Email:** ralp.pelino11@gmail.com
+* **Email:** ralphjangallegos@gmail.com
