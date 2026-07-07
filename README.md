@@ -16,12 +16,12 @@ I am an Information Technology professional blending **strong Full-Stack Develop
 | **State & Data Fetching** | React Query (TanStack Query) |
 | **Database/Data** | SQL / NoSQL, Data Analysis |
 | **Reporting & Docs** | PDF generation & export (barryvdh/laravel-dompdf) |
-| **Real-Time & Chat** | musonza/chat, BFF proxy patterns, file attachment handling |
+| **Real-Time & Chat** | Laravel Reverb, musonza/chat, BFF proxy patterns, file attachment handling |
 | **Tools & Version Control** | Git, GitHub, ERP/WMS Software |
 
 ## 💼 Professional Experience Highlights
 My professional background demonstrates a progression in responsibility and operational focus:
-* **Full-Stack Developer (Syntactics Inc.):** Build and maintain multiple interconnected web applications for an applicant management system — including a Next.js applicant-facing portal, a Laravel + Inertia.js + React admin system, and a Laravel backend powering reporting and chat support features. Work spans authentication flows (email verification, 2FA, session handling), exam/testing modules, applicant document management, financial report generation, and support chat with file attachments.
+* **Full-Stack Developer (Syntactics Inc.):** Build and maintain multiple interconnected web applications for an applicant management system — including a Next.js applicant-facing portal, a Laravel + Inertia.js + React admin system, and a Laravel backend powering reporting and real-time chat support features (via Laravel Reverb). Work spans authentication flows (email verification, 2FA, session handling), exam/testing modules, applicant document management, financial report generation, and support chat with file attachments.
 * **Logistic Officer:** Responsible for end-to-end logistics planning, coordination, and vendor management for various events.
 * **Assistant Coordinator:** Provided crucial support in pre-event planning, client communication, and on-site execution.
 
@@ -38,4 +38,4 @@ Check out my personal portfolio and repositories to see my skills in action!
 
 ## 📧 Get in Touch
 I am open to discussing new opportunities, collaborations, or technical challenges.
-* **Email:** ralphjangallegos@gmail.com
+* **Email:** ralp.pelino11@gmail.com
